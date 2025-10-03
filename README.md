@@ -155,7 +155,7 @@
     <section class="hero">
       <div>
         <span class="badge">✨ New Release</span>
-        <h1>Core OS: <span aria-hidden="true">Upgrade Your Inner Operating System</span><span class="sr-only">Upgrade Your Inner Operating System</span></h1>
+        <h1>Core OS: <span aria-hidden="true">Upgrade Your Inner Operating System</span><span class="sr-only"</h1>
         <p>Upgrade the system that runs you. A concise, practical playbook for leaders who want clearer decisions, tighter habits, and a saner mind under load.</p>
         <div class="kpis">
           <span class="chip">≈ 95 pages</span>
